@@ -106,6 +106,7 @@
 
 ## 📁 Структура репозитория
 
+```
 eda_bank_customer_outflow/
 ├── README.md
 ├── notebooks/
@@ -114,6 +115,7 @@ eda_bank_customer_outflow/
 │ └── churn.csv
 ├── images/
 └── requirements.txt
+```
 
 
 ## 📝 Статус
